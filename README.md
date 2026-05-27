@@ -21,7 +21,6 @@ Tecnologias voltadas para redes, sistemas e controle de versão:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -35,10 +34,7 @@ Destaques da minha trajetória de aprendizado contínuo na área técnica:
 * **Curso Complementar de Central de Serviços em TI (Service Desk)**
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GeisaMiranda/GeisaMiranda/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
-</p>
-
+<
 
 
 
