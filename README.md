@@ -35,6 +35,10 @@ Destaques da minha trajetória de aprendizado contínuo na área técnica:
 * **Curso Complementar de Central de Serviços em TI (Service Desk)**
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GeisaMiranda/GeisaMiranda/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha" />
+</p>
+
 
 
 
