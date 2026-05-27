@@ -35,6 +35,10 @@ Destaques da minha trajetória de aprendizado contínuo na área técnica:
 * **Curso Complementar de Redes de Computadores**
 * **Curso Complementar de Central de Serviços em TI (Service Desk)**
 
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geisa-miranda-352938226)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirandageisa77@gmail.com)
+
 
 
 
