@@ -16,11 +16,16 @@ Aqui estão as tecnologias que utilizo para desenvolvimento, criação de script
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🛠️ Infraestrutura e Ferramentas de Suporte
-Tecnologias voltadas para redes, sistemas e controle de versão:
+## 🛠️ Infraestrutura e Ferramentas de Suporte
+
+Tecnologias voltadas para redes, sistemas e suporte técnico:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes%20de%20Computadores-00599C?style=for-the-badge)
+![Suporte](https://img.shields.io/badge/Suporte%20Técnico-0A66C2?style=for-the-badge)
 
 ---
 
