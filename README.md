@@ -34,7 +34,7 @@ Destaques da minha trajetória de aprendizado contínuo na área técnica:
 * **Curso Complementar de Central de Serviços em TI (Service Desk)**
 
 
-<
+
 
 
 
